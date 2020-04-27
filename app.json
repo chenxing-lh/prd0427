@@ -1,0 +1,19 @@
+{
+  "appKey": "Gd6u5yMaoO2IFr2xtYDS1tt4S9JYX952",
+  "appSecret": "3OZDISEN9ajMO324RlXcbgFvJiwwGfFy",
+  "projectId": "0c11946aec0c4ca13e2de9f2b8980901",
+  "id": 462,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/prd0427.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "MTouj36ekdieQJHnbZMWC+eViZCIPVwNEpuNdNwGujexXiCqiKV9YhSd+RoBQ/tDqG9bmFB/cgTE2KUUs3W6FQ=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
